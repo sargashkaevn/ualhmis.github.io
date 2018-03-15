@@ -29,7 +29,7 @@ id | Nombre estudiante  | Equipo | Página personal
 23 | SERGIO             |   |  
 24 | ALVARO             |   |  
 25 | JOSE FRANCISCO     |   |  
-26 | NURSULTAN          |   |  
+26 | NURSULTAN          | Let Us Pass Please  |  
 27 | FRANCISCO JESUS    |   |  
 28 | ANDREI             | Let Us Pass  |  https://skarmakhovich.github.io
 29 | SANTIAGO AGUSTIN   | Corei7  | https://ssg127.github.io/  
